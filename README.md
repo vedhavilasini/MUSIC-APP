@@ -1,5 +1,5 @@
 # LISTENER
-# 🎧 Tamil Music Streaming Web App
+# 🎧Music Streaming Web App
 
 **Live Demo:** https://music-app-6cc6e.web.app/
 

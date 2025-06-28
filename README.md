@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Description  
-A fully functional Tamil music streaming web app built with React.js and Tailwind CSS. It features five popular movie albums with working audio playback, user authentication, and an admin panel for managing content. The app uses Firebase for backend services (auth + hosting) and Cloudinary for storing album covers and songs. Designed with a responsive layout for both desktop and mobile.
+A fully functional  music streaming web app built with React.js and Tailwind CSS. It features five popular movie albums with working audio playback, user authentication, and an admin panel for managing content. The app uses Firebase for backend services (auth + hosting) and Cloudinary for storing album covers and songs. 
 
 ---
 
